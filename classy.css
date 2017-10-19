@@ -1,12 +1,24 @@
 body{
   font-family: fantasy;
-  color: #0B0978;
+  color: white;
   padding: 50px;
-  background-color: #5BFFB7;
+  background-color: white;
 }
 
 .hello{
   border: 5px solid #0B0978;
   padding: 30px;
-  background-color: #F2A9EA;
+  background-color: grey;
+}
+h1{
+  color: white;
+  background-color: gold;
+}
+p{
+  color: #28004d;
+  background-color: #cc99ff;
+}
+h4{
+  color: white;
+  background-color: blue;
 }
